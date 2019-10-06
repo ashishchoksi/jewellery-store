@@ -1,0 +1,16 @@
+E:\mis project\JewelleryStore\JewelleryStore\bin\Debug\JewelleryStore.exe
+E:\mis project\JewelleryStore\JewelleryStore\bin\Debug\JewelleryStore.pdb
+E:\mis project\JewelleryStore\JewelleryStore\bin\Debug\JewelleryStore.xml
+E:\mis project\JewelleryStore\JewelleryStore\obj\Debug\JewelleryStore.Resources.resources
+E:\mis project\JewelleryStore\JewelleryStore\obj\Debug\JewelleryStore.vbproj.GenerateResource.Cache
+E:\mis project\JewelleryStore\JewelleryStore\obj\Debug\JewelleryStore.exe
+E:\mis project\JewelleryStore\JewelleryStore\obj\Debug\JewelleryStore.xml
+E:\mis project\JewelleryStore\JewelleryStore\obj\Debug\JewelleryStore.pdb
+E:\mis project\JewelleryStore\JewelleryStore\bin\Debug\Database1.mdf
+E:\mis project\JewelleryStore\JewelleryStore\bin\Debug\Database1_log.ldf
+E:\mis project\JewelleryStore\JewelleryStore\bin\Debug\JewelleryStore.exe.config
+E:\mis project\JewelleryStore\JewelleryStore\obj\Debug\JewelleryStore.Form1.resources
+E:\mis project\JewelleryStore\JewelleryStore\obj\Debug\JewelleryStore.Form2.resources
+E:\mis project\JewelleryStore\JewelleryStore\obj\Debug\JewelleryStore.Form4.resources
+E:\mis project\JewelleryStore\JewelleryStore\obj\Debug\JewelleryStore.Form5.resources
+E:\mis project\JewelleryStore\JewelleryStore\obj\Debug\JewelleryStore.vbprojResolveAssemblyReference.cache
